@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, my name is Chris Ratsabout and I am a new software developer. I am excited to learn and apply my new skills to build web applications.
+Hi, my name is Chris Ratsabout and I am a software developer. I am excited to learn and apply my new skills to build web applications.
 <!--
 **chrisratsabout/chrisratsabout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
